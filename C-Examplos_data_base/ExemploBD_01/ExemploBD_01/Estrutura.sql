@@ -1,0 +1,3 @@
+﻿CREATE TABLE Cores(Nome VARCHAR(100) NOT NULL);
+
+SELECT * FROM Cores;

@@ -1,0 +1,19 @@
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\bin\Debug\ExemploBD_02.exe.config
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\bin\Debug\ExemploBD_02.exe
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\bin\Debug\ExemploBD_02.pdb
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.Form1.resources
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.Properties.Resources.resources
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.csproj.GenerateResource.Cache
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.exe
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.pdb
+C:\Users\i3i\Documents\GitHub\exercicios-integracao-bd\ExemploBD_02\ExemploBD_02\bin\Debug\ExemploBD_02.exe.config
+C:\Users\i3i\Documents\GitHub\exercicios-integracao-bd\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.exe
+C:\Users\i3i\Documents\GitHub\exercicios-integracao-bd\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.pdb
+C:\Users\105349\Documents\GitHub\ExerciciosDBC-\ExemploBD_02\ExemploBD_02\bin\Debug\ExemploBD_02.exe.config
+C:\Users\105349\Documents\GitHub\ExerciciosDBC-\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.exe
+C:\Users\105349\Documents\GitHub\ExerciciosDBC-\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.pdb
+C:\Users\105349\Documents\GitHub\ExerciciosDBC-\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.csprojResolveAssemblyReference.cache
+C:\Users\105349\Documents\GitHub\ExerciciosDBC-\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.Form1.resources
+C:\Users\105349\Documents\GitHub\ExerciciosDBC-\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.Properties.Resources.resources
+C:\Users\105349\Documents\GitHub\ExerciciosDBC-\ExemploBD_02\ExemploBD_02\obj\Debug\ExemploBD_02.csproj.GenerateResource.Cache

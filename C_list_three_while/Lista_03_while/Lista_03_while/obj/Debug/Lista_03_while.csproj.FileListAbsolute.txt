@@ -1,0 +1,6 @@
+C:\Users\105349\Documents\GitHub\Lista_03_while\Lista_03_while\Lista_03_while\bin\Debug\Lista_03_while.exe.config
+C:\Users\105349\Documents\GitHub\Lista_03_while\Lista_03_while\Lista_03_while\bin\Debug\Lista_03_while.exe
+C:\Users\105349\Documents\GitHub\Lista_03_while\Lista_03_while\Lista_03_while\bin\Debug\Lista_03_while.pdb
+C:\Users\105349\Documents\GitHub\Lista_03_while\Lista_03_while\Lista_03_while\obj\Debug\Lista_03_while.csprojResolveAssemblyReference.cache
+C:\Users\105349\Documents\GitHub\Lista_03_while\Lista_03_while\Lista_03_while\obj\Debug\Lista_03_while.exe
+C:\Users\105349\Documents\GitHub\Lista_03_while\Lista_03_while\Lista_03_while\obj\Debug\Lista_03_while.pdb

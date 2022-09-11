@@ -1,0 +1,6 @@
+C:\Users\105349\Documents\Visual Studio 2013\Projects\ProvaDois\ProvaDois\bin\Debug\ProvaDois.exe.config
+C:\Users\105349\Documents\Visual Studio 2013\Projects\ProvaDois\ProvaDois\bin\Debug\ProvaDois.exe
+C:\Users\105349\Documents\Visual Studio 2013\Projects\ProvaDois\ProvaDois\bin\Debug\ProvaDois.pdb
+C:\Users\105349\Documents\Visual Studio 2013\Projects\ProvaDois\ProvaDois\obj\Debug\ProvaDois.csprojResolveAssemblyReference.cache
+C:\Users\105349\Documents\Visual Studio 2013\Projects\ProvaDois\ProvaDois\obj\Debug\ProvaDois.exe
+C:\Users\105349\Documents\Visual Studio 2013\Projects\ProvaDois\ProvaDois\obj\Debug\ProvaDois.pdb

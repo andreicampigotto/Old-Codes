@@ -1,0 +1,6 @@
+C:\Users\i3i\Documents\GitHub\listasumedois\listaUmSolicitacaodeInformacao\listaUmSolicitacaodeInformacao\bin\Debug\listaUmSolicitacaodeInformacao.exe.config
+C:\Users\i3i\Documents\GitHub\listasumedois\listaUmSolicitacaodeInformacao\listaUmSolicitacaodeInformacao\obj\Debug\listaUmSolicitacaodeInformacao.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\listasumedois\listaUmSolicitacaodeInformacao\listaUmSolicitacaodeInformacao\bin\Debug\listaUmSolicitacaodeInformacao.exe
+C:\Users\i3i\Documents\GitHub\listasumedois\listaUmSolicitacaodeInformacao\listaUmSolicitacaodeInformacao\bin\Debug\listaUmSolicitacaodeInformacao.pdb
+C:\Users\i3i\Documents\GitHub\listasumedois\listaUmSolicitacaodeInformacao\listaUmSolicitacaodeInformacao\obj\Debug\listaUmSolicitacaodeInformacao.exe
+C:\Users\i3i\Documents\GitHub\listasumedois\listaUmSolicitacaodeInformacao\listaUmSolicitacaodeInformacao\obj\Debug\listaUmSolicitacaodeInformacao.pdb

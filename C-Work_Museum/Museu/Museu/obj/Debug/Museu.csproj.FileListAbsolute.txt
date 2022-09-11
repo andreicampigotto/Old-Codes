@@ -1,0 +1,21 @@
+C:\Users\105349\Documents\GitHub\Trabalho_Museu\Museu\Museu\bin\Debug\Museu.exe.config
+<<<<<<< HEAD
+C:\Users\105411\Documents\GitHub\Trabalho_Museu\Museu\Museu\bin\Debug\Museu.exe.config
+=======
+C:\Users\105349\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\Trabalho_Museu\Museu\Museu\bin\Debug\Museu.exe.config
+>>>>>>> 6de4992b7e72a359def70711a66972d38c426dc6
+>>>>>>> 9cffe48c34391d5cb8ffa96c70ca880d3f1c60a7
+C:\Users\105411\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\Trabalho_Museu\Museu\Museu\bin\Debug\Museu.exe
+C:\Users\i3i\Documents\GitHub\Trabalho_Museu\Museu\Museu\bin\Debug\Museu.pdb
+C:\Users\i3i\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.exe
+C:\Users\i3i\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.pdb
+>>>>>>> 0b72917da22d112ad1886b0bf619d30fe311b4e5
+C:\Users\105411\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.exe
+C:\Users\105411\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.pdb
+C:\Users\105349\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.exe
+C:\Users\105349\Documents\GitHub\Trabalho_Museu\Museu\Museu\obj\Debug\Museu.pdb
+C:\Users\105411\Documents\GitHub\Trabalho_Museu\Museu\Museu\bin\Debug\Museu.exe
+C:\Users\105411\Documents\GitHub\Trabalho_Museu\Museu\Museu\bin\Debug\Museu.pdb

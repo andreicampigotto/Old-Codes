@@ -1,0 +1,18 @@
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExerciciosListadeEstruturaCondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.exe.config
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExerciciosListadeEstruturaCondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExerciciosListadeEstruturaCondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.exe
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExerciciosListadeEstruturaCondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.pdb
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExerciciosListadeEstruturaCondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.exe
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ExerciciosListadeEstruturaCondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.pdb
+C:\Users\i3i\Documents\GitHub\listadoisestruturacondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.exe.config
+C:\Users\i3i\Documents\GitHub\listadoisestruturacondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.exe
+C:\Users\i3i\Documents\GitHub\listadoisestruturacondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.pdb
+C:\Users\i3i\Documents\GitHub\listadoisestruturacondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.exe
+C:\Users\i3i\Documents\GitHub\listadoisestruturacondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.pdb
+C:\Users\i3i\Documents\GitHub\listadoisestruturacondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.csprojResolveAssemblyReference.cache
+C:\Users\105349\Documents\GitHub\listadoisestruturacondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.exe.config
+C:\Users\105349\Documents\GitHub\listadoisestruturacondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.exe
+C:\Users\105349\Documents\GitHub\listadoisestruturacondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.pdb
+C:\Users\105349\Documents\GitHub\listadoisestruturacondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.exe
+C:\Users\105349\Documents\GitHub\listadoisestruturacondicional\bin\Debug\ExerciciosListadeEstruturaCondicional.pdb
+C:\Users\105349\Documents\GitHub\listadoisestruturacondicional\obj\Debug\ExerciciosListadeEstruturaCondicional.csprojResolveAssemblyReference.cache
